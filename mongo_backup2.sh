@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Thiết lập múi giờ
+# Thiết lập múi giờ22
 export TZ='Asia/Ho_Chi_Minh'
 
 # Cấu hình
